@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """Generate a daily Virat Kohli cricket-stat SVG card with watermark 'Saiverse18'."""
+import os
+os.makedirs("output", exist_ok=True)
 from __future__ import annotations
 
 import argparse
