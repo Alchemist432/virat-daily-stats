@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#102A43" />
+      <stop offset="100%" stop-color="#1F4068" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="628" fill="url(#bg)" rx="24" />
+  <text x="40" y="80" font-size="52" font-weight="700" fill="#FFFFFF">Virat Kohli - Daily Cricket Stats</text>
+  <text x="40" y="120" font-size="24" fill="#C9D6E3">Date: 2026-08-31</text>
+  <text x="40" y="170" font-size="28" fill="#E9ECF1">test: 4 (10) | SR 40 vs v West Indies on 20 Jun 2011</text><text x="40" y="226" font-size="28" fill="#E9ECF1">odi: 12 (22) | SR 54.54 vs v Sri Lanka on 18 Aug 2008</text><text x="40" y="282" font-size="28" fill="#E9ECF1">t20i: 26* (21) | SR 123.8 vs v Zimbabwe on 12 Jun 2010</text>
+  <text x="40" y="596" font-size="18" fill="#B8C5D1">Source: ESPNcricinfo Statsguru (player 253802)</text>
+  <text x="1135" y="602" text-anchor="end" font-size="30" fill="#FFFFFF" opacity="0.50">Saiverse18</text>
+</svg>
