@@ -1,0 +1,29 @@
+{
+  "test": {
+    "date": "20 Jun 2011",
+    "runs": "4",
+    "balls": "10",
+    "sr": "40",
+    "opposition": "v West Indies",
+    "ground": "Kingston",
+    "format": "TEST"
+  },
+  "odi": {
+    "date": "18 Aug 2008",
+    "runs": "12",
+    "balls": "22",
+    "sr": "54.54",
+    "opposition": "v Sri Lanka",
+    "ground": "Dambulla",
+    "format": "ODI"
+  },
+  "t20i": {
+    "date": "12 Jun 2010",
+    "runs": "26*",
+    "balls": "21",
+    "sr": "123.8",
+    "opposition": "v Zimbabwe",
+    "ground": "Harare",
+    "format": "T20I"
+  }
+}
